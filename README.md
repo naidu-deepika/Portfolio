@@ -23,3 +23,4 @@ It showcases my profile, skills, achievements, project, and contact details in a
 - JavaScript (for UI animations)
 - Font Awesome (icons)
 - Netlify (deployment)
+<img width="1920" height="1020" alt="Screenshot 2026-02-03 005615" src="https://github.com/user-attachments/assets/6c704157-e58b-43dd-a558-b1c08dbf626e" />
